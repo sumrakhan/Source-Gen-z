@@ -1,0 +1,330 @@
+//home page
+.titlePage {
+  font-size: 24px;
+}
+
+.yt1 {
+  color:#915f6d;
+  font-family: 
+}
+.line {
+  width:75%;
+  border: solid black;
+  border-width: 1px;
+}
+nav{
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+  width: 100%;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #fff7ed;
+}
+
+.nav-bar {
+  background-color: #fff7ed;
+}
+
+
+.titleColor{
+  font-size: 39px;
+  font-family:   unset;
+  color: #6e6e6e;
+
+}
+
+.mission {
+  font-size:18px;
+  margin-left:100px;
+  margin-right:100px;
+  line-height: 2;
+  font-family:   unset;
+}
+
+
+.missionTitle {
+    margin-top: 100px;
+     border: 5px solid #915f6d;
+     font-family:   unset;
+     color: #6e6e6e
+}
+
+article {
+  padding: 1%;
+  margin-left:6%;
+  margin-right: 6%;
+}
+
+a{
+  color: #6e6e6e;
+  text-decoration: none;  
+}
+
+article :hover {
+background-color: #915f6d;
+  color: white; 
+  border-radius: 5px;
+
+}
+
+.home {
+  width:75%;
+  height:auto;
+}
+
+
+.subTitle {
+  font-size: 18px;
+  color: #b76e79;
+  font-family:   unset;
+
+}
+.logoStyle{
+  background-color: #fff7ed;
+  width:100%;
+  height:300px;
+  
+}
+
+.holdingHands {
+  height:auto;
+  width:200px;
+display: inline;
+}
+
+.subtitle {
+font-size:40px;
+display:inline;
+font-family:   unset;
+  color: #6e6e6e
+}
+.yemenTitle {
+  font-size:33px;
+  color:#915f6d;
+  font-family:   unset;
+}
+.blmTitle {
+    font-size:33px;
+  color:#915f6d;
+  font-family:   unset;
+}
+
+.campTitle {
+    font-size:33px;
+  color:#915f6d;
+  font-family:   unset;
+}
+
+.yemenPic:hover{
+  border: 4px solid #915f6d;
+  transition: .5s;
+  padding: 0.5%;
+}
+.yemenPic {
+  width:90%;
+  object-fit:cover;
+  height:500px;
+}
+
+.blmPic:hover{
+  border: 4px solid #915f6d;
+  transition: .5s;
+  padding: 0.5%;
+}
+.blmPic {
+  width:90%;
+  object-fit:cover;
+  height:550px;
+}
+
+.campPic:hover {
+  border: 4px solid #915f6d;
+  transition: .5s;
+  padding: 0.5%;
+}
+.campPic {
+  width:90%;
+  object-fit:cover;
+  height:500px;
+}
+
+.howCan {
+ color:#915f6d;
+ font-family:   unset;
+}
+
+
+
+.titleForDom {
+  color:#915f6d;
+  font-size:45px;
+  text-align:center;
+  font-family:   unset;
+}
+
+
+.typeName {
+  color:#b76e79;
+  font-size:24px;;
+  font-family:   unset;
+}
+.typeYesOrNo {
+  font-size:24px;
+  color: #b76e79;
+  font-family:   unset;
+}
+
+/*button*/
+
+.domInput{
+  text-align:left;
+  margin-left:433px;
+
+}
+.nameSubmit{
+  border:solid #b76e79;
+  font-size: 20px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  font-family:   unset;
+}
+.yesOrNoButton{
+  border:solid #b76e79;
+  font-family:   unset;
+  font-size: 20px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+.information {
+  border:solid #b76e79;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color:white;
+  font-family:   unset;
+}
+.sub {
+  border: solid #b76e79;
+  border-radius: 10px;
+  background: #fff7ed;
+  padding-top:9px;
+  padding-left:18px;
+  padding-right:18px;
+  padding-bottom:9px;
+  font-family:   unset;
+  font-size:20px;
+  font-color: #b76e79
+}
+.submitBttn {
+  color:#b76e79;
+  font-size: 24px;
+font-family:   unset;
+}
+.awesome {
+  font-size: 24px;
+  color:#b76e79;
+  font-family:   unset;
+}
+.btn1 {
+  color:#b76e79;
+  font-size: 24px;
+  border-radius:10px;
+  border: solid #b76e79;
+  background-color:#fff7ed;
+  font-family:   unset;
+}
+.btn2 {
+  color:#b76e79;
+  font-size: 24px;
+  border-radius:10px;
+  border: solid #b76e79;
+  background-color:#fff7ed;
+  font-family:   unset;
+}
+.btn3 {
+  color:#b76e79;
+  font-size: 24px;
+border-radius:10px;
+  border: solid #b76e79;
+  background-color:#fff7ed;
+  font-family:   unset;
+}
+/*YEMEN TAB*/
+.yd {
+  text-align: center;
+  font-size: 18px;
+  margin-left:100px;
+  margin-right:100px;
+  line-height: 2;
+  font-family:   unset;
+}
+
+.link1 {
+  border: solid #6e6e6e;
+  border-width: 1px;
+  padding-top:3px;
+  padding-bottom: 3px;
+  padding-left:3px;
+  padding-right:4px;
+  font-size: 18px;
+  border-radius:10px;
+  font-family:   unset;
+}
+
+.yemened {
+  padding-top: 10px;
+}
+
+/*BLM TAB*/
+.blm {
+ text-align: center;
+  font-size: 18px;
+  margin-left:100px;
+  margin-right:100px;
+  line-height: 2; 
+}
+
+.yt1 {
+  margin-top: 100px;
+     font-family:   unset;
+     color: #6e6e6e;
+}
+
+
+
+
+
+/*UYGHUR TAB*/
+.ucc {
+ text-align: center;
+  font-size: 18px;
+  margin-left:100px;
+  margin-right:100px;
+  line-height: 2; 
+  
+}
+
+
+/**/
+.petitionTitle {
+  color:#915f6d;
+  font-size:30px;
+}
+
+
+.no {
+  display:inline;
+  
+}
+.yes {
+  display:inline;
+}
+
+
+
+
+
